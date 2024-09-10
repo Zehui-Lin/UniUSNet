@@ -6,7 +6,7 @@ UniUSNet is a universal framework for ultrasound image classification and segmen
 - Versatility across various ultrasound natures, anatomical positions, and input types. Proficiency in both segmentation and classification tasks
 - Strong generalization capabilities demonstrated through zero-shot and fine-tuning experiments on new datasets.
 
-For more details, see the accompanying paper,
+For more details, see the accompanying paper and [Project Page](https://zehui-lin.github.io/UniUSNet/),
 
 > [**UniUSNet: A Promptable Framework for Universal Ultrasound Disease Prediction and Tissue Segmentation**](https://arxiv.org/abs/2406.01154)<br/>
   Zehui Lin, Zhuoneng Zhang, Xindi Hu, Zhifan Gao, Xin Yang, Yue Sun, Dong Ni, Tao Tan. <b>Arxiv</b>, Jun 3, 2024. https://arxiv.org/abs/2406.01154
